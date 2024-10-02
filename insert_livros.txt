@@ -1,0 +1,642 @@
+[
+    {
+        "book_id": "1",
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Distopia",
+        "summary": "Uma novela de ficção científica distópica e um conto de advertência sobre um regime totalitário.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "2",
+        "title": "O Senhor dos Anéis: A Sociedade do Anel",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasia",
+        "summary": "A primeira parte da trilogia que narra a jornada épica de Frodo para destruir o Um Anel.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "3",
+        "title": "Orgulho e Preconceito",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "summary": "Uma crítica social sob a forma de romance sobre as relações entre classes sociais na Inglaterra do século 19.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "4",
+        "title": "O Morro dos Ventos Uivantes",
+        "author": "Emily Brontë",
+        "genre": "Romance",
+        "summary": "A história trágica de amor e vingança entre Heathcliff e Catherine Earnshaw.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "5",
+        "title": "A Metamorfose",
+        "author": "Franz Kafka",
+        "genre": "Ficção",
+        "summary": "A transformação surreal de Gregor Samsa em um inseto e seu impacto em sua família.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "6",
+        "title": "Cem Anos de Solidão",
+        "author": "Gabriel García Márquez",
+        "genre": "Realismo Mágico",
+        "summary": "A saga da família Buendía em Macondo, explorando temas de solidão e destino.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "7",
+        "title": "O Pequeno Príncipe",
+        "author": "Antoine de Saint-Exupéry",
+        "genre": "Fábula",
+        "summary": "Uma história poética sobre um príncipe que viaja por planetas e aprende sobre amor e amizade.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "8",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "genre": "Distopia",
+        "summary": "Uma sociedade onde os livros são proibidos e um bombeiro começa a questionar esse sistema.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "9",
+        "title": "A Guerra dos Mundos",
+        "author": "H.G. Wells",
+        "genre": "Ficção Científica",
+        "summary": "A invasão da Terra por marcianos e a luta da humanidade pela sobrevivência.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "10",
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "genre": "Aventura",
+        "summary": "A busca obsessiva do Capitão Ahab pela baleia branca Moby Dick.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "11",
+        "title": "O Livro dos Espíritos",
+        "author": "Allan Kardec",
+        "genre": "Espiritualidade",
+        "summary": "Fundamental para o espiritismo, explora questões sobre a vida após a morte.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "12",
+        "title": "A Divina Comédia",
+        "author": "Dante Alighieri",
+        "genre": "Poesia",
+        "summary": "Uma jornada épica através do Inferno, Purgatório e Paraíso.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "13",
+        "title": "O Grande Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Romance",
+        "summary": "Uma crítica ao sonho americano através da história de Jay Gatsby e seu amor por Daisy.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "14",
+        "title": "O Estrangeiro",
+        "author": "Albert Camus",
+        "genre": "Filosofia",
+        "summary": "A história de Meursault, um homem indiferente à vida e suas consequências.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "15",
+        "title": "O Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasia",
+        "summary": "As aventuras de Bilbo Bolseiro em sua jornada com um grupo de anões.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "16",
+        "title": "A Revolução dos Bichos",
+        "author": "George Orwell",
+        "genre": "Fábula Política",
+        "summary": "Uma alegoria sobre a revolução russa através de animais que se rebelam contra seus opressores.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "17",
+        "title": "O Senhor das Moscas",
+        "author": "William Golding",
+        "genre": "Ficção",
+        "summary": "Um grupo de meninos fica preso em uma ilha e enfrenta a natureza humana.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "18",
+        "title": "O Diário de Anne Frank",
+        "author": "Anne Frank",
+        "genre": "Biografia",
+        "summary": "O diário de uma jovem judia que se esconde dos nazistas durante a Segunda Guerra Mundial.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "19",
+        "title": "As Aventuras de Tom Sawyer",
+        "author": "Mark Twain",
+        "genre": "Aventura",
+        "summary": "As travessuras de um garoto em uma pequena cidade ao longo do rio Mississippi.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "20",
+        "title": "Crime e Castigo",
+        "author": "Fiódor Dostoiévski",
+        "genre": "Ficção",
+        "summary": "A luta moral de Raskólnikov após cometer um assassinato.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "21",
+        "title": "O Processo",
+        "author": "Franz Kafka",
+        "genre": "Ficção",
+        "summary": "A história de Josef K., que é preso e processado sem saber o motivo.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "22",
+        "title": "A Casa dos Espíritos",
+        "author": "Isabel Allende",
+        "genre": "Realismo Mágico",
+        "summary": "A saga de uma família chilena e suas ligações com o sobrenatural.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "23",
+        "title": "O Último dos Moicanos",
+        "author": "James Fenimore Cooper",
+        "genre": "Aventura",
+        "summary": "Uma história de amor e conflito durante a Guerra Francesa e Indígena.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "24",
+        "title": "Drácula",
+        "author": "Bram Stoker",
+        "genre": "Terror",
+        "summary": "A história do Conde Drácula e sua busca por sangue na Inglaterra.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "25",
+        "title": "A Ilha do Tesouro",
+        "author": "Robert Louis Stevenson",
+        "genre": "Aventura",
+        "summary": "A busca por um tesouro perdido em uma ilha tropical.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "26",
+        "title": "O Velho e o Mar",
+        "author": "Ernest Hemingway",
+        "genre": "Ficção",
+        "summary": "A luta de um velho pescador contra um gigantesco marlim.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "27",
+        "title": "A Cor Púrpura",
+        "author": "Alice Walker",
+        "genre": "Ficção",
+        "summary": "A vida de uma mulher afro-americana no sul dos EUA no início do século 20.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "28",
+        "title": "O Sol é para Todos",
+        "author": "Harper Lee",
+        "genre": "Romance",
+        "summary": "Uma análise da injustiça racial na América através dos olhos de uma criança.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "29",
+        "title": "A Casa dos Espíritos",
+        "author": "Isabel Allende",
+        "genre": "Ficção",
+        "summary": "Uma saga de gerações sobre amor, política e sobrenatural.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "30",
+        "title": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+        "author": "C.S. Lewis",
+        "genre": "Fantasia",
+        "summary": "Quatro crianças descobrem um mundo mágico através de um guarda-roupa.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "31",
+        "title": "A Estrada",
+        "author": "Cormac McCarthy",
+        "genre": "Ficção",
+        "summary": "A luta pela sobrevivência de um pai e filho em um mundo pós-apocalíptico.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "32",
+        "title": "A Bússola de Ouro",
+        "author": "Philip Pullman",
+        "genre": "Fantasia",
+        "summary": "Uma jovem se embarca em uma jornada épica em um universo paralelo.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "33",
+        "title": "O Guia do Mochileiro das Galáxias",
+        "author": "Douglas Adams",
+        "genre": "Ficção Científica",
+        "summary": "As absurdas aventuras de Arthur Dent no espaço.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "34",
+        "title": "O Silêncio dos Inocentes",
+        "author": "Thomas Harris",
+        "genre": "Thriller",
+        "summary": "Uma jovem agente do FBI deve consultar um serial killer para capturar outro.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "35",
+        "title": "A Menina que Roubava Livros",
+        "author": "Markus Zusak",
+        "genre": "Ficção Histórica",
+        "summary": "A história de uma menina que encontra consolo em livros durante a Segunda Guerra Mundial.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "36",
+        "title": "O Homem Invisível",
+        "author": "H.G. Wells",
+        "genre": "Ficção Científica",
+        "summary": "A história de um cientista que se torna invisível e enfrenta as consequências de seus atos.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "37",
+        "title": "O Retrato de Dorian Gray",
+        "author": "Oscar Wilde",
+        "genre": "Ficção",
+        "summary": "Um jovem faz um pacto para manter sua juventude enquanto sua pintura envelhece.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "38",
+        "title": "O Príncipe",
+        "author": "Nicolau Maquiavel",
+        "genre": "Filosofia",
+        "summary": "Um tratado sobre política e poder escrito no século 16.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "39",
+        "title": "O Corcunda de Notre-Dame",
+        "author": "Victor Hugo",
+        "genre": "Romance",
+        "summary": "A história trágica de Quasímodo e sua paixão por Esmeralda.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "40",
+        "title": "As Aventuras de Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "genre": "Mistério",
+        "summary": "Um conjunto de histórias sobre o famoso detetive e seu amigo Watson.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "41",
+        "title": "O Último Rei da Escócia",
+        "author": "Giles Foden",
+        "genre": "Ficção Histórica",
+        "summary": "A história da ditadura de Idi Amin na Uganda, contada pelo ponto de vista de um médico escocês.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "42",
+        "title": "As Mil e Uma Noites",
+        "author": "Diversos autores",
+        "genre": "Contos",
+        "summary": "Uma coletânea de contos e fábulas do Oriente Médio.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "43",
+        "title": "O Idiota",
+        "author": "Fiódor Dostoiévski",
+        "genre": "Ficção",
+        "summary": "A história de um príncipe que se esforça para entender o mundo ao seu redor.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "44",
+        "title": "O Homem que Calculava",
+        "author": "Malba Tahan",
+        "genre": "Matemática",
+        "summary": "As aventuras de um homem que resolve problemas matemáticos de forma extraordinária.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "45",
+        "title": "A Sangue Frio",
+        "author": "Truman Capote",
+        "genre": "Não-Ficção",
+        "summary": "Um relato detalhado de um assassinato e seus efeitos sobre a comunidade.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "46",
+        "title": "O Gênio e a Loucura",
+        "author": "David Bowie",
+        "genre": "Biografia",
+        "summary": "Uma análise da vida e carreira do icônico músico.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "47",
+        "title": "A Revolução dos Bichos",
+        "author": "George Orwell",
+        "genre": "Fábula Política",
+        "summary": "Uma alegoria sobre a revolução russa através de animais que se rebelam contra seus opressores.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "48",
+        "title": "A Vida é Bela",
+        "author": "Roberto Benigni",
+        "genre": "Ficção",
+        "summary": "A história de um pai que usa sua imaginação para proteger seu filho em um campo de concentração.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "49",
+        "title": "O Nome da Rosa",
+        "author": "Umberto Eco",
+        "genre": "Mistério",
+        "summary": "Um monge franciscano investiga uma série de mortes em um mosteiro na Idade Média.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "50",
+        "title": "O Mágico de Oz",
+        "author": "L. Frank Baum",
+        "genre": "Fantasia",
+        "summary": "A aventura de Dorothy em um mundo mágico onde ela procura voltar para casa.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "51",
+        "title": "A Garota no Trem",
+        "author": "Paula Hawkins",
+        "genre": "Thriller",
+        "summary": "A história de uma mulher que se envolve em um desaparecimento ao observar o que acontece em um trem.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "52",
+        "title": "O Céu e o Inferno",
+        "author": "Allan Kardec",
+        "genre": "Espiritualidade",
+        "summary": "Um estudo sobre a vida após a morte e o que nos espera no além.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "53",
+        "title": "A Arte da Guerra",
+        "author": "Sun Tzu",
+        "genre": "Estratégia",
+        "summary": "Um tratado militar sobre estratégia e táticas, aplicável a diversas áreas da vida.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "54",
+        "title": "Os Miseráveis",
+        "author": "Victor Hugo",
+        "genre": "Romance",
+        "summary": "A luta de Jean Valjean para redimir-se após ser libertado da prisão.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "55",
+        "title": "O Senhor dos Anéis: As Duas Torres",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasia",
+        "summary": "A continuação da jornada de Frodo e Sam em direção à Montanha da Perdição.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "56",
+        "title": "O Senhor dos Anéis: O Retorno do Rei",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasia",
+        "summary": "O clímax da trilogia onde os destinos de todos se encontram em batalha.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "57",
+        "title": "O Vendedor de Sonhos",
+        "author": "Augusto Cury",
+        "genre": "Ficção",
+        "summary": "A história de um homem que tenta ajudar as pessoas a encontrarem seus sonhos.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "58",
+        "title": "O Diário de uma Paixão",
+        "author": "Nicholas Sparks",
+        "genre": "Romance",
+        "summary": "Uma história de amor entre um jovem e uma mulher de classe alta.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "59",
+        "title": "A Cabana",
+        "author": "William P. Young",
+        "genre": "Ficção",
+        "summary": "Um homem encontra Deus em uma cabana após a perda de sua filha.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "60",
+        "title": "Um Estranho em Meu Lado",
+        "author": "Mário Prata",
+        "genre": "Ficção",
+        "summary": "A história de um homem que lida com a morte de sua esposa e a chegada de um estranho.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "61",
+        "title": "A Invenção de Morel",
+        "author": "Adolfo Bioy Casares",
+        "genre": "Ficção Científica",
+        "summary": "A história de um fugitivo que se esconde em uma ilha habitada por criaturas estranhas.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "62",
+        "title": "O Prisioneiro do Castelo de Aço",
+        "author": "Jorge Amado",
+        "genre": "Ficção",
+        "summary": "A história de um homem que luta contra os opressores em uma sociedade injusta.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "63",
+        "title": "As Intermitências da Morte",
+        "author": "José Saramago",
+        "genre": "Ficção",
+        "summary": "A morte decide não levar mais ninguém e a sociedade lida com as consequências.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "64",
+        "title": "Memórias Póstumas de Brás Cubas",
+        "author": "Machado de Assis",
+        "genre": "Ficção",
+        "summary": "Um narrador defunto conta sua história e a sociedade brasileira do século 19.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "65",
+        "title": "Dom Casmurro",
+        "author": "Machado de Assis",
+        "genre": "Ficção",
+        "summary": "A história de Bentinho e sua paixão por Capitu, repleta de ciúmes e inseguranças.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "66",
+        "title": "O Guarani",
+        "author": "José de Alencar",
+        "genre": "Romance",
+        "summary": "A história de amor entre uma índia e um português em um Brasil colonial.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "67",
+        "title": "Iracema",
+        "author": "José de Alencar",
+        "genre": "Romance",
+        "summary": "Uma história de amor entre um índio e uma mulher branca, simbolizando a miscigenação brasileira.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "68",
+        "title": "O Primo Basílio",
+        "author": "José de Alencar",
+        "genre": "Ficção",
+        "summary": "A história de adultério e suas consequências em uma sociedade burguesa.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "69",
+        "title": "A Moreninha",
+        "author": "Joaquim Manuel de Macedo",
+        "genre": "Romance",
+        "summary": "Uma história de amor juvenil e suas complicações em um cenário romântico.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "70",
+        "title": "A Cartuxa de Parma",
+        "author": "Stendhal",
+        "genre": "Romance",
+        "summary": "A história de Fabrizio, um jovem que navega pela política e o amor na Itália.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "71",
+        "title": "As aventuras de Huckleberry Finn",
+        "author": "Mark Twain",
+        "genre": "Aventura",
+        "summary": "A jornada de Huck e Jim pelo rio Mississippi em busca de liberdade.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "72",
+        "title": "Os Três Mosqueteiros",
+        "author": "Alexandre Dumas",
+        "genre": "Aventura",
+        "summary": "As aventuras de D'Artagnan e seus amigos na França do século 17.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "73",
+        "title": "O Corsário Negro",
+        "author": "Emilio Salgari",
+        "genre": "Aventura",
+        "summary": "As aventuras de um corsário em busca de vingança e tesouros.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "74",
+        "title": "A Fera da Noite",
+        "author": "Stefan Zweig",
+        "genre": "Ficção",
+        "summary": "A história de um homem que se transforma em uma fera em um momento de crise.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "75",
+        "title": "Os Sertões",
+        "author": "Euclides da Cunha",
+        "genre": "Não-Ficção",
+        "summary": "Um estudo sobre a guerra de Canudos e a vida no sertão nordestino.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "76",
+        "title": "O Enigma do Quatro",
+        "author": "Ian Caldwell",
+        "genre": "Mistério",
+        "summary": "Um thriller literário que envolve um manuscrito antigo.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "77",
+        "title": "O Último dos Moicanos",
+        "author": "James Fenimore Cooper",
+        "genre": "Aventura",
+        "summary": "A história de um jovem e suas aventuras na América colonial.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "78",
+        "title": "O Conto da Aia",
+        "author": "Margaret Atwood",
+        "genre": "Ficção Distópica",
+        "summary": "A vida de uma mulher em uma sociedade totalitária onde as mulheres são subjugadas.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "79",
+        "title": "A Estrada de Baku",
+        "author": "Aldous Huxley",
+        "genre": "Ficção",
+        "summary": "A vida de um homem em uma sociedade distópica que busca a liberdade.",
+        "added_date": "2024-09-28"
+    },
+    {
+        "book_id": "80",
+        "title": "O Processo",
+        "author": "Franz Kafka",
+        "genre": "Ficção",
+        "summary": "A história de um homem que é preso sem saber a razão e luta contra um sistema opressor.",
+        "added_date": "2024-09-28"
+    }
+]
